@@ -23,3 +23,4 @@ Refer to LICENSE
 - https://www.apollographql.com/docs/apollo-server/getting-started
 - https://www.apollographql.com/docs/apollo-server/schema/schema
 - https://www.npmjs.com/package/dotenv
+- https://www.apollographql.com/docs/react/data/mutations/
